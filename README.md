@@ -4,7 +4,7 @@
 # ID PUBLIC
 # FILE CRACK
 
-rm -rf FILE-CLONE
+rm -rf PAID-V2
 
 git clone https://github.com/Dyno-XD/PAID-V2
 
