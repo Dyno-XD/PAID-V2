@@ -10,6 +10,6 @@ git clone https://github.com/Dyno-XD/PAID-V2
 
 cd PAID-V2
 
-python PAID-V2.py
+python PAIDV2_enc.py
 
 # ENJOY🤓
