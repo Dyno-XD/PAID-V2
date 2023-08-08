@@ -3,4 +3,4 @@ print('')
 print(" Checking Update's...")
 print('')
 os.system(" git pull")
-import PAID-V2_enc
+import PAIDV2_enc
