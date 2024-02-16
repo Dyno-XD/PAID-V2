@@ -14,4 +14,4 @@ python PAID-V2.py
 
 # ENJOY🤓
 
-![IMG_20240216_020548_294.jpg](https://github.com/Dyno-XD/DynoXD-FREE/assets/122469427/6ea68b3f-8cd9-45b3-8b3c-d281253388f9)
+![IMG_20240216_020548_294.jpg](https://raw.githubusercontent.com/Dyno-XD/PAID-V2/main/IMG_20240216_020548_294.jpg)
